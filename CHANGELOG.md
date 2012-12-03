@@ -1,7 +1,13 @@
 ### HEAD
 
-* Update to jQuery 1.8.1
-* Update to Modernizr 2.6.2
+* Update to Normalize.css 1.0.2
+* Update to jQuery 1.8.3.
+
+### 4.0.1 (20 October, 2012)
+
+* Further improvements to `console` method stubbing ([#1206](https://github.com/h5bp/html5-boilerplate/issues/1206), [#1229](https://github.com/h5bp/html5-boilerplate/pull/1229)).
+* Update to jQuery 1.8.2.
+* Update to Modernizr 2.6.2.
 * Minor additions to the documentation.
 
 ### 4.0.0 (28 August, 2012)
